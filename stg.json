@@ -1,0 +1,891 @@
+{
+    "1": {
+            "name" : "Fin de la pobreza",
+            "description": "Poner fin a la pobreza en todas sus formas en todo el mundo",
+            "targets": {
+                "1.1": {
+                    "name" : "Erradicar la extrema pobreza",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "1.2": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "1.3": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "1.4": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "1.5": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "1.A": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "1.B": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }
+            }
+    },
+    
+    "2": {
+            "name" : "Hambre cero",
+            "description": "",
+            "targets": {
+                "2.1": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "2.2": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "2.3": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "2.4": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "2.5": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "2.A": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "2.B": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "2.C": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }
+            },   
+    "3": {
+            "name" : "Salud y bienestar",
+            "description": "",
+            "targets": {
+                "3.1": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "3.2": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "3.3": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "3.4": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "3.5": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "3.6": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }, 
+                "3.7": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }, 
+                "3.8": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "3.9": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },           
+                "3.A": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "3.B": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "3.C": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "3.D": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }
+            } 
+
+    "4": {
+            "name" : "Educación de calidad",
+            "description": "",
+            "targets": {
+                "4.1": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "4.2": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "4.3": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "4.4": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "4.5": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "4.6": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }, 
+                "4.7": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }, 
+         
+                "4.A": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "4.B": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "4.C": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }
+            },
+            
+            
+            
+    "5": {
+            "name" : "Igualdad de género",
+            "description": "",
+            "targets": {
+                "5.1": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "5.2": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "5.3": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "5.4": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "5.5": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "5.6": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }, 
+        
+                "5.A": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "5.B": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "5.C": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }
+            },
+            
+
+    "6": {
+            "name" : "Agua limpia y saneamiento",
+            "description": "",
+            "targets": {
+                "6.1": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "6.2": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "6.3": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "6.4": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "6.5": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "6.6": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },          
+                "6.A": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "6.B": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }
+            },
+            
+            
+    "7": {
+            "name" : "Energía asequible y no contaminante",
+            "description": "",
+            "targets": {
+                "7.1": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "7.2": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "7.3": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },          
+                "7.A": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "7.B": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }
+            },
+            
+                   
+            
+    "8": {
+            "name" : "Trabajo decente y crecimiento económico",
+            "description": "",
+            "targets": {
+                "8.1": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "8.2": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "8.3": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "8.4": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "8.5": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "8.6": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }, 
+                "8.7": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }, 
+                "8.8": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "8.9": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },   
+                "8.10": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },        
+                "8.A": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "8.B": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }
+            }, 
+            
+            
+            
+    "9": {
+            "name" : "Industria, innovación e infraestructura",
+            "description": "",
+            "targets": {
+                "9.1": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "9.2": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "9.3": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "9.4": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "9.5": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },        
+                "9.A": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "9.B": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "9.C": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }
+            },   
+            
+
+            
+    "10": {
+            "name" : "Reducción de desigualdades",
+            "description": "",
+            "targets": {
+                "10.1": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "10.2": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "10.3": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "10.4": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },                
+                "10.5": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },   
+                "10.6": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },   
+                "10.7": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },   
+                "10.A": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "10.B": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                },
+                "10.C": {
+                    "name" : "",
+                    "data" : [],
+                    "interlinkages" : []
+                }
+            },   
+
+            
+    "11": {
+            "name" : "Ciudades y comunidades sostenibles",
+            "description": "",
+            "targets": {
+                "11.1": {
+                    "name" : "",
+                    "data" : []
+                },
+                "11.2": {
+                    "name" : "",
+                    "data" : []
+                },
+                "11.3": {
+                    "name" : "",
+                    "data" : []
+                },
+                "11.4": {
+                    "name" : "",
+                    "data" : []
+                },                
+                "11.5": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "11.6": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "11.7": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "11.A": {
+                    "name" : "",
+                    "data" : []
+                },
+                "11.B": {
+                    "name" : "",
+                    "data" : []
+                },
+                "11.C": {
+                    "name" : "",
+                    "data" : []
+                }
+            },  
+            
+            
+    "12": {
+            "name" : "Producción y consumo responsables",
+            "description": "",
+            "targets": {
+                "12.1": {
+                    "name" : "",
+                    "data" : []
+                },
+                "12.2": {
+                    "name" : "",
+                    "data" : []
+                },
+                "12.3": {
+                    "name" : "",
+                    "data" : []
+                },
+                "12.4": {
+                    "name" : "",
+                    "data" : []
+                },                
+                "12.5": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "12.6": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "12.7": {
+                    "name" : "",
+                    "data" : []
+                },  
+                "12.8": {
+                    "name" : "",
+                    "data" : []
+                },  
+                "12.A": {
+                    "name" : "",
+                    "data" : []
+                },
+                "12.B": {
+                    "name" : "",
+                    "data" : []
+                },
+                "12.C": {
+                    "name" : "",
+                    "data" : []
+                }
+            },  
+
+
+    "13": {
+            "name" : "Acción por el clima",
+            "description": "",
+            "targets": {
+                "13.1": {
+                    "name" : "",
+                    "data" : []
+                },
+                "13.2": {
+                    "name" : "",
+                    "data" : []
+                },
+                "13.3": {
+                    "name" : "",
+                    "data" : []
+                }, 
+                "13.A": {
+                    "name" : "",
+                    "data" : []
+                },
+                "13.B": {
+                    "name" : "",
+                    "data" : []
+                }
+            },  
+
+    "14": {
+            "name" : "Vida submarina",
+            "description": "",
+            "targets": {
+                "14.1": {
+                    "name" : "",
+                    "data" : []
+                },
+                "14.2": {
+                    "name" : "",
+                    "data" : []
+                },
+                "14.3": {
+                    "name" : "",
+                    "data" : []
+                },
+                "14.4": {
+                    "name" : "",
+                    "data" : []
+                },                
+                "14.5": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "14.6": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "14.7": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "14.A": {
+                    "name" : "",
+                    "data" : []
+                },
+                "14.B": {
+                    "name" : "",
+                    "data" : []
+                },
+                "14.C": {
+                    "name" : "",
+                    "data" : []
+                }
+            },  
+
+
+    "15": {
+            "name" : "Vida de ecosistemas terrestres",
+            "description": "",
+            "targets": {
+                "15.1": {
+                    "name" : "",
+                    "data" : []
+                },
+                "15.2": {
+                    "name" : "",
+                    "data" : []
+                },
+                "15.3": {
+                    "name" : "",
+                    "data" : []
+                },
+                "15.4": {
+                    "name" : "",
+                    "data" : []
+                },                
+                "15.5": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "15.6": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "15.7": {
+                    "name" : "",
+                    "data" : []
+                },  
+                "15.8": {
+                    "name" : "",
+                    "data" : []
+                },  
+                "15.9": {
+                    "name" : "",
+                    "data" : []
+                }, 
+                "15.A": {
+                    "name" : "",
+                    "data" : []
+                },
+                "15.B": {
+                    "name" : "",
+                    "data" : []
+                },
+                "15.C": {
+                    "name" : "",
+                    "data" : []
+                }
+            },  
+
+
+
+    "16": {
+            "name" : "Paz, justicia e instituciones sólidas",
+            "description": "",
+            "targets": {
+                "16.1": {
+                    "name" : "",
+                    "data" : []
+                },
+                "16.2": {
+                    "name" : "",
+                    "data" : []
+                },
+                "16.3": {
+                    "name" : "",
+                    "data" : []
+                },
+                "16.4": {
+                    "name" : "",
+                    "data" : []
+                },                
+                "16.5": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "16.6": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "16.7": {
+                    "name" : "",
+                    "data" : []
+                },  
+                "16.8": {
+                    "name" : "",
+                    "data" : []
+                },  
+                "16.9": {
+                    "name" : "",
+                    "data" : []
+                }, 
+                "16.10": {
+                    "name" : "",
+                    "data" : []
+                }, 
+                "16.A": {
+                    "name" : "",
+                    "data" : []
+                },
+                "16.B": {
+                    "name" : "",
+                    "data" : []
+                }
+            },  
+
+
+    "17": {
+            "name" : "Alianzas para lograr los objetivos",
+            "description": "",
+            "targets": {
+                "17.1": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.2": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.3": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.4": {
+                    "name" : "",
+                    "data" : []
+                },                
+                "17.5": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "17.6": {
+                    "name" : "",
+                    "data" : []
+                },   
+                "17.7": {
+                    "name" : "",
+                    "data" : []
+                },  
+                "17.8": {
+                    "name" : "",
+                    "data" : []
+                },  
+                "17.9": {
+                    "name" : "",
+                    "data" : []
+                }, 
+                "17.10": {
+                    "name" : "",
+                    "data" : []
+                }, 
+                "17.11": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.12": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.13": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.14": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.15": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.16": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.17": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.18": {
+                    "name" : "",
+                    "data" : []
+                },
+                "17.19": {
+                    "name" : "",
+                    "data" : []
+                }
+            },  
+  
+    }
+    
+}
